@@ -4,6 +4,12 @@
 
 Using Tableau and New York Citi Bike Data, we created data vidualizations to explore the viability of a bike sharing app.
 
+## Resources
+
+
+Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
+Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
+
 ## Results
 
 [link to dashboard](https://public.tableau.com/app/profile/shalmalee1683/viz/CitiBike2_16339107434690/CitiBike?publish=yes)
