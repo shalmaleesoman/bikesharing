@@ -6,7 +6,7 @@ Using Tableau and New York Citi Bike Data, we created data vidualizations to exp
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/shalmalee1683/viz/CitiBikeData_16339034577860/CheckoutTimesforUsersViz?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/shalmalee1683/viz/CitiBike2_16339107434690/CitiBike?publish=yes)
 
 
 ![checkout times by gender](https://user-images.githubusercontent.com/86750935/136716680-705ecbd0-4b72-489f-9b95-eac706905438.PNG)
