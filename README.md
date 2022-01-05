@@ -17,7 +17,7 @@ Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook
 [link to dashboard](https://public.tableau.com/app/profile/shalmalee1683/viz/CitiBike2_16339107434690/CitiBike?publish=yes)
 
 
-![checkout times by gender](https://user-images.githubusercontent.com/86750935/136716680-705ecbd0-4b72-489f-9b95-eac706905438.PNG)
+![checkout times by gender]![image]![image](https://user-images.githubusercontent.com/86750935/148248277-f0c3a57e-9f81-4115-ba40-e8851d9e04df.png)
 
 most users are male
 
@@ -47,7 +47,7 @@ Shown below is the overall gender breakdown
 
 Average trip durations are only about 1-2 hours as shown below
 
-![image](https://user-images.githubusercontent.com/86750935/136716981-9917ea6a-d8a9-4a55-89a0-703f6219ce18.png)
+![image]![image](https://user-images.githubusercontent.com/86750935/148248354-88f51ec0-ef26-4c7a-91f5-1499dac859a2.png)
 
 * The data shows high activity of the bike sharing service in New York during the month of August 2019.
 * It shows the service tends to men more than women and is more beneficial towards them.
